@@ -29,5 +29,6 @@ defmodule MazedriversBot.Mixfile do
   defp deps, do: [
     {:credo, "~> 0.4", only: [:dev, :test]},
     {:socket, github: "meh/elixir-socket"},
+    {:poison, "~> 2.0"},
   ]
 end
