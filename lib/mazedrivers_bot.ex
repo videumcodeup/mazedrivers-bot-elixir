@@ -1,0 +1,2 @@
+defmodule MazedriversBot do
+end
